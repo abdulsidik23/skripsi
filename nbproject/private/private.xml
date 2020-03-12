@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/layouts/masterfront.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/post/form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/app/Http/Controllers/PostController.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/curhat/_tampilcurhat.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/post/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/kontak.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/post/detail.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/beranda.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/app/Http/Controllers/CurhatController.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/post/indexuser.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/auth/daftar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/curhat/listuser.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/layouts/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/curhat/chatbox.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/layouts/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/profil.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/layouts/master2.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tes/resources/views/post/detailuser.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
